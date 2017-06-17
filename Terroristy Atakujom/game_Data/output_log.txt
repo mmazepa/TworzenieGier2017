@@ -1,0 +1,58 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 750M (ID=0xfe4)
+    Vendor:   NVIDIA
+    VRAM:     1965 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Mariusz\Desktop\Tworzenie gier\TworzenieGier2017\Terroristy Atakujom\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Mariusz\Desktop\Tworzenie gier\TworzenieGier2017\Terroristy Atakujom\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Mariusz\Desktop\Tworzenie gier\TworzenieGier2017\Terroristy Atakujom\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Mariusz\Desktop\Tworzenie gier\TworzenieGier2017\Terroristy Atakujom\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Mariusz\Desktop\Tworzenie gier\TworzenieGier2017\Terroristy Atakujom\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Mariusz\Desktop\Tworzenie gier\TworzenieGier2017\Terroristy Atakujom\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Mariusz\Desktop\Tworzenie gier\TworzenieGier2017\Terroristy Atakujom\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Mariusz\Desktop\Tworzenie gier\TworzenieGier2017\Terroristy Atakujom\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.030 seconds
+Platform assembly: C:\Users\Mariusz\Desktop\Tworzenie gier\TworzenieGier2017\Terroristy Atakujom\game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Mariusz\Desktop\Tworzenie gier\TworzenieGier2017\Terroristy Atakujom\game_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.639226 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2378 -> priority: 1 
+  Thread -> id: 1dd4 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.553460 ms
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 945.
+Total: 2.190802 ms (FindLiveObjects: 0.104211 ms CreateObjectMapping: 0.033552 ms MarkObjects: 0.283422 ms  DeleteObjects: 1.768431 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.883031 ms
+
+Unloading 100 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 1.168428 ms (FindLiveObjects: 0.044210 ms CreateObjectMapping: 0.017763 ms MarkObjects: 0.167764 ms  DeleteObjects: 0.938295 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.500134 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 946.
+Total: 1.727773 ms (FindLiveObjects: 0.078553 ms CreateObjectMapping: 0.025263 ms MarkObjects: 0.238422 ms  DeleteObjects: 1.384350 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.805662 ms
+
+Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 965.
+Total: 1.187375 ms (FindLiveObjects: 0.056447 ms CreateObjectMapping: 0.029210 ms MarkObjects: 0.347370 ms  DeleteObjects: 0.753951 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.909479 ms
+
+Unloading 112 unused Assets to reduce memory usage. Loaded Objects now: 402.
+Total: 1.950801 ms (FindLiveObjects: 0.047763 ms CreateObjectMapping: 0.033947 ms MarkObjects: 0.217896 ms  DeleteObjects: 1.650404 ms)
+
